@@ -1,0 +1,28 @@
+.hero{
+    background-image:url('images/banner-image-bg-1.jpg');
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+#discount{
+    background-image:url('images/banner-image-bg-1.jpg');
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+.genre-badge {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    background-color: #f76c6c;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.9rem;
+  }
+
+  .card-img-top2 {
+    height: 180px;
+    object-fit: cover;
+  }
